@@ -197,3 +197,5 @@ To improve this labeling system:
 2. Enhance `prompt.md` with better analysis instructions
 3. Add examples of well-labeled issues for reference
 4. Submit pull requests with improvements
+
+⚠️ **Security Warning**: Never commit configuration files containing real tokens to version control. Add configuration files to `.gitignore`.
